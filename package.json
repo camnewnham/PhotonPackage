@@ -1,0 +1,17 @@
+{
+  "name": "com.exit-games.photon",
+  "version": "2.22.0",
+  "displayName": "Photon PUN",
+  "description": "Photon PUN 2 & Voice 2 organised as a package.",
+  "unity": "2019.1",
+  "keywords": [
+    "dialog",
+    "native",
+    "popup"
+  ],
+  "author": {
+    "name": "camnewnham",
+    "email": "camnewnham@gmail.com",
+    "url": "https://assetstore.unity.com/packages/tools/network/pun-2-free-119922"
+  }
+}
